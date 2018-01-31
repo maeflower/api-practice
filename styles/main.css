@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+#googleMap{
+    width:500px;
+    height:380px;
+}
